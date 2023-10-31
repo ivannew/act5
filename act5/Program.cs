@@ -19,6 +19,14 @@ namespace act5
 
             Console.WriteLine("\nTrabajo 4 - Búsqueda Lineal para Encontrar Todos los Números Pares en una Matriz de Números Enteros:");
             miBusqueda.Trabajo4();
+
+            Binarios binarios = new Binarios();
+            binarios.binario1();
+           
+            binarios.binario2();
+           
+            binarios.binario3();
+
         }
     }
 }
